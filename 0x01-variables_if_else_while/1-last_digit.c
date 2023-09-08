@@ -4,7 +4,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - A negative and positive variable
+ * main - A main function variable
  *
  * Return: always 0
  */
