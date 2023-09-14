@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * int mul - multiply two integers
+ * mul - multiply two integers
  * @a: The first integer
- * @b: The second one
+ * @b: The second integer
  * Return: Always 0
  */
 
